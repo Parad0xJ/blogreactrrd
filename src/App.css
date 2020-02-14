@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: #c3c0e5
+}
+li{
+  margin-left: 5px;
+  list-style: none;
+}
+li:active{
+  background-color: yellowgreen;
+}
+.current{
+  background-color: yellowgreen;
+}
+#navbar{
+  background-Color: #8ebfe2;
+}
+.bgFooter{
+  background-Color: #8ebfe2;
+}
