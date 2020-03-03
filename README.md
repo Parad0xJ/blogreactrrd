@@ -6,7 +6,9 @@ App. Blog React avec react-router-dom
 
 Voir le Projet https://parad0xj.github.io/blogreactrrd/
 
-> J'ai utilisé sur cette applictaion react-router-dom au plus simple, si tout fonctionnait bien en local je m'aperçois que le routage avec github est perturbé les url's semblent mauvaises. J'ai réalisé une autre app avec cette fois HashRouter proposé par react-router-dom [todosapprrd](https://github.com/Parad0xJ/todosapprrd) et cette fois github comprends parfaitement le routage plus de problème de ce côté là.
+#### J'ai utilisé sur cette applictaion react-router-dom au plus simple, si tout fonctionnait bien en local je m'aperçois que le routage avec github est perturbé les url's semblent mauvaises.
+
+>  J'ai réalisé une autre app avec cette fois HashRouter proposé par react-router-dom [todosapprrd](https://github.com/Parad0xJ/todosapprrd) et cette fois github comprends parfaitement le routage plus de problème de ce côté là.
 
 ### La page d'accueil ne retourne pas ce qu'elle devrait retourner utilisez la navigation pour evoluer dans l'application
 
