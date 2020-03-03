@@ -10,6 +10,6 @@ Voir le Projet https://parad0xj.github.io/blogreactrrd/
 
 ### La page d'accueil ne retourne pas ce qu'elle devrait retourner utilisez la navigation pour evoluer dans l'application
 
-#### Depuis plusieurs semaines les appels API sur jsonplaceholder mettent plusieurs secondes entre 30-40-50 pour arriver quand ils ne retournent pas une erreur.
+
 
 
